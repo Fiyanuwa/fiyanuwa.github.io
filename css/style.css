@@ -23,7 +23,7 @@ body {
             padding: 10px;
         }
 
-        .chapter-header{
+        header{
             display:flex;
             justify-content: space-between;
             align-items: center;
